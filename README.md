@@ -62,6 +62,8 @@ git reset --hard
 
 > Remember, the master branch is considered unstable. Do not use this in
 production. Use a tagged state of the repository, npm, or bower for stability!
+### 15+ CSS Material Design Cards
+https://freefrontend.com/css-material-design-cards/#google_vignette
 
 ## Feature requests
 
